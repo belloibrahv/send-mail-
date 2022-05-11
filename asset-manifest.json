@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/send-mails/static/css/main.72a2a8cc.css",
-    "main.js": "/send-mails/static/js/main.091a6076.js",
+    "main.css": "/send-mails/static/css/main.fbd28e8c.css",
+    "main.js": "/send-mails/static/js/main.cf19b2f5.js",
     "static/js/787.1493a40f.chunk.js": "/send-mails/static/js/787.1493a40f.chunk.js",
     "index.html": "/send-mails/index.html",
-    "main.72a2a8cc.css.map": "/send-mails/static/css/main.72a2a8cc.css.map",
-    "main.091a6076.js.map": "/send-mails/static/js/main.091a6076.js.map",
+    "main.fbd28e8c.css.map": "/send-mails/static/css/main.fbd28e8c.css.map",
+    "main.cf19b2f5.js.map": "/send-mails/static/js/main.cf19b2f5.js.map",
     "787.1493a40f.chunk.js.map": "/send-mails/static/js/787.1493a40f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72a2a8cc.css",
-    "static/js/main.091a6076.js"
+    "static/css/main.fbd28e8c.css",
+    "static/js/main.cf19b2f5.js"
   ]
 }
